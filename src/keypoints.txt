@@ -1,0 +1,6 @@
+install react scrol-------------------> from website
+import {Link} from  reactscroll
+then
+<Link to="home" and the other class from site>that we link here<Link/>
+then
+pass the id that we put in to that point where we scroll

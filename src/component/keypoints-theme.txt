@@ -1,0 +1,15 @@
+# --------------React-scroll-----------------------------
+# 1) install the React-scroll and then work
+# 2) import { Link } from 'React-scroll'
+# 3) <Link to='something' and other classes from site> in this we link lies or icon etc   <Link/>
+# 4) pass the id "something" to the main div where we sroll.
+# --------------------------end------------------------------
+
+
+# -----------------------Apply icon-----------------------------
+# 1) Instal the react icon from react website
+# 2) import {icon type or name} from 'react-icons/ icon type or name first two consonent'
+# 3) put the icon where we want in self close tag just like
+# -------------> <li> {icon type or name} <li/>
+# ---------------------------End------------------------------
+
